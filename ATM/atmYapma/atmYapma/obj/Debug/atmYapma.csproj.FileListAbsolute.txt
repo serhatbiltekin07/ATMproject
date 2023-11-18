@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ATM\atmYapma\atmYapma\bin\Debug\atmYapma.exe.config
+C:\Users\user\Desktop\ATM\atmYapma\atmYapma\bin\Debug\atmYapma.exe
+C:\Users\user\Desktop\ATM\atmYapma\atmYapma\bin\Debug\atmYapma.pdb
+C:\Users\user\Desktop\ATM\atmYapma\atmYapma\obj\Debug\atmYapma.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ATM\atmYapma\atmYapma\obj\Debug\atmYapma.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ATM\atmYapma\atmYapma\obj\Debug\atmYapma.exe
+C:\Users\user\Desktop\ATM\atmYapma\atmYapma\obj\Debug\atmYapma.pdb
